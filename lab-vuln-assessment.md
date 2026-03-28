@@ -169,4 +169,7 @@ net user hacker
 
 ---
 
+[Muhammad Adeel Tariq  (weak 4 task).pdf](https://github.com/user-attachments/files/26320592/Muhammad.Adeel.Tariq.weak.4.task.pdf)
+
+
 *Academic Lab | Cybersecurity Course — Week 4 | Muhammad Adeel Tariq*
