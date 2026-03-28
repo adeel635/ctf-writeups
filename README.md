@@ -1,7 +1,7 @@
 # Cybersecurity Lab Writeups
 
 Academic penetration testing labs completed during 
-cybersecurity coursework at GCUF.
+cybersecurity coursework at Corvit Institute.
 All work performed in isolated VirtualBox environments.
 
 ## Labs Covered
