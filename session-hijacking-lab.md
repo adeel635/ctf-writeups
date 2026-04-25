@@ -183,6 +183,9 @@ T1550.004 — Use Alternate Authentication Material: Web Cookies
 - **Chrome** — Target browser (attacker session)
 - **Facebook** — Target platform (personal test account)
 
+  [Muhammad Adeel Tariq w7 tasks.pdf](https://github.com/user-attachments/files/27072430/Muhammad.Adeel.Tariq.w7.tasks.pdf)
+
+
 ---
 
 *Academic Lab | CEH Coursework — Week 7 | Muhammad Adeel Tariq*
